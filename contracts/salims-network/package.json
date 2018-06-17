@@ -15,7 +15,7 @@
     "composer",
     "composer-network"
   ],
-  "author": "Salim Khan	",
+  "author": "Salim Khan",
   "email": "mohamskh@in.ibm.com",
   "license": "Apache-2.0",
   "devDependencies": {
